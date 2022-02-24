@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Béatrice (benano)
-- 👀 I’m interested in signal processing (major of my engineering studies and current interneship) and µcontroller code
-- 🌱 I’m currently learning scheme (Structure and interpretation of computer programs) and emacs
+- 👀 I’m interested in signal processing (major of my engineering studies and current job) and µcontroller code
+- 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me: soon a dedicated mailbox here
 

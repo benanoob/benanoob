@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Béatrice (benano)
-- 👀 I’m interested in signal processing (major of my engineering studies and current job) and µcontroller code
-- 🌱 I’m currently learning ?
+- 👀 I’m interested in digital signal processing (domain: music production plugin algorithms) 
+- 🌱 I’m currently learning Emacs
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me: soon a dedicated mailbox here
 
